@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj": {}
+    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj": {}
   },
   "projects": {
-    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj": {
+    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj",
-        "projectName": "epatvmenu.prato",
-        "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj",
+        "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
+        "projectName": "EPATVMenu.dataaccess",
+        "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
         "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-        "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\obj\\",
+        "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",

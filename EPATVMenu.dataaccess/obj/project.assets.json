@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
-      "projectName": "epatvmenu.ementa",
-      "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
+      "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
+      "projectName": "EPATVMenu.dataaccess",
+      "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\obj\\",
+      "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",

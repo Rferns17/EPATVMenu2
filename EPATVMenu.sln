@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "epatvmenu.utilizador", "epa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "epatvmenu.ementa", "epatvmenu.ementa\epatvmenu.ementa.csproj", "{4246C4AA-4C54-4F28-A863-B56E673CDB7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epatvmenu.prato", "epatvmenu.prato\epatvmenu.prato.csproj", "{280A7804-FE88-4E9E-B5A3-B15827BC1F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "epatvmenu.prato", "epatvmenu.prato\epatvmenu.prato.csproj", "{280A7804-FE88-4E9E-B5A3-B15827BC1F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPATVMenu.dataaccess", "EPATVMenu.dataaccess\EPATVMenu.dataaccess.csproj", "{4682212B-4BBD-4CCE-B5BE-ED62F4ACF9BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{280A7804-FE88-4E9E-B5A3-B15827BC1F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{280A7804-FE88-4E9E-B5A3-B15827BC1F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{280A7804-FE88-4E9E-B5A3-B15827BC1F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4682212B-4BBD-4CCE-B5BE-ED62F4ACF9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4682212B-4BBD-4CCE-B5BE-ED62F4ACF9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4682212B-4BBD-4CCE-B5BE-ED62F4ACF9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4682212B-4BBD-4CCE-B5BE-ED62F4ACF9BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
