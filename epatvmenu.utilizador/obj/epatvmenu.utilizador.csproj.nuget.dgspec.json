@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {}
+    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {
+    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
+        "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
         "projectName": "epatvmenu.utilizador",
-        "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
+        "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.utilizador\\obj\\",
+        "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

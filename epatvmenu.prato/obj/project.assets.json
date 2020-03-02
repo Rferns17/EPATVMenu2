@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.prato\\epatvmenu.prato.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj",
       "projectName": "epatvmenu.prato",
-      "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.prato\\epatvmenu.prato.csproj",
+      "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\epatvmenu.prato.csproj",
       "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.prato\\obj\\",
+      "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.prato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

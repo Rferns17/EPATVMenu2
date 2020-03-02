@@ -1,0 +1,9 @@
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\bin\Debug\netstandard2.0\epatvmenu.utilizador.deps.json
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\bin\Debug\netstandard2.0\epatvmenu.utilizador.dll
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\bin\Debug\netstandard2.0\epatvmenu.utilizador.pdb
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.csprojAssemblyReference.cache
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.AssemblyInfo.cs
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.dll
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\epatvmenu.utilizador\obj\Debug\netstandard2.0\epatvmenu.utilizador.pdb

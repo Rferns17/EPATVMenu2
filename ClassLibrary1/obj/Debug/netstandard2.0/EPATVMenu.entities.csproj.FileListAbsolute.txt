@@ -1,0 +1,8 @@
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\bin\Debug\netstandard2.0\EPATVMenu.entities.deps.json
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\bin\Debug\netstandard2.0\EPATVMenu.entities.dll
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\bin\Debug\netstandard2.0\EPATVMenu.entities.pdb
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\obj\Debug\netstandard2.0\EPATVMenu.entities.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\obj\Debug\netstandard2.0\EPATVMenu.entities.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\obj\Debug\netstandard2.0\EPATVMenu.entities.AssemblyInfo.cs
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\obj\Debug\netstandard2.0\EPATVMenu.entities.dll
+C:\Users\Utilizador\Downloads\PortableGit\ProjetoSIM\EPATVMenu2\ClassLibrary1\obj\Debug\netstandard2.0\EPATVMenu.entities.pdb

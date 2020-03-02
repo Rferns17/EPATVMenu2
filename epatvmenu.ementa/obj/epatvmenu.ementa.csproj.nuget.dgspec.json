@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.ementa\\epatvmenu.ementa.csproj": {}
+    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.ementa\\epatvmenu.ementa.csproj": {
+    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
+        "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
         "projectName": "epatvmenu.ementa",
-        "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
+        "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\epatvmenu.ementa.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu\\epatvmenu.ementa\\obj\\",
+        "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.ementa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
