@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {}
   },
   "projects": {
@@ -12,12 +13,22 @@
         "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\obj\\",
+=======
+    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {}
+  },
+  "projects": {
+    "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
+        "projectName": "epatvmenu.utilizador",
+        "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\epatvmenu.utilizador.csproj",
+        "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+        "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\epatvmenu.utilizador\\obj\\",
+>>>>>>> d9698515633dd5c0c4cf9ac6a5d4b76e9a95abc1
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,10 +60,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
