@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj": {}
+    "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj": {
+    "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj",
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj",
         "projectName": "EPATVMenu.entities",
-        "projectPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\ClassLibrary1\\EPATVMenu.entities.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilizador\\Downloads\\PortableGit\\ProjetoSIM\\EPATVMenu2\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

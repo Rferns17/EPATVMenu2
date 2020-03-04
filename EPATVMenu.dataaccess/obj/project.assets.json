@@ -180,19 +180,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marci\\.nuget\\packages\\": {}
+    "C:\\Users\\Utilizador\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
+      "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
       "projectName": "EPATVMenu.dataaccess",
-      "projectPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
-      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "F:\\#PAP\\Git\\ProjetoSIM\\EPATVMenu2\\EPATVMenu.dataaccess\\obj\\",
+      "projectPath": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\EPATVMenu.dataaccess\\EPATVMenu.dataaccess.csproj",
+      "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utilizador\\Desktop\\EPATVMenu2\\EPATVMenu.dataaccess\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -224,16 +228,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
